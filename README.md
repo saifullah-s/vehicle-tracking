@@ -1,3 +1,5 @@
+[Home](https://github.com/saifullah-s/portfolio/blob/main/README.md) &nbsp;·&nbsp; [Projects](https://github.com/saifullah-s/portfolio/blob/main/projects.md) &nbsp;·&nbsp; [Skills](https://github.com/saifullah-s/portfolio/blob/main/skills.md) &nbsp;·&nbsp; [About Me](https://github.com/saifullah-s/portfolio/blob/main/about-me.md) &nbsp;·&nbsp; [Contact](https://github.com/saifullah-s/portfolio/blob/main/contact.md) &nbsp;·&nbsp; [Resume](https://github.com/saifullah-s/portfolio/blob/main/resume.md)  
+
 # Vehicle Detection, Tracking, and Traffic Volume Analysis Using YOLOv8 on UA-DETRAC Dataset  
 This repository is for my current project which is still in progress. The summary below is tentative and will be updated with detailed findings and resources upon project completion.   
 
